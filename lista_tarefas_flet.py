@@ -25,4 +25,5 @@ def main(pagina:ft.Page):
     
     pagina.add(mensagem, entrada_nome_tarefa, botao, container_lista)
 
+
 ft.app(target=main)
